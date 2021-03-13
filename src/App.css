@@ -1,0 +1,86 @@
+.columnn{
+  width :100%;
+  height:150px;
+  background-color: rgb(189, 88, 175);
+  color:white;
+  border-radius: 20px;
+  margin: 5px;
+ 
+}
+.titre{
+  text-align: center;
+  size: 24px;
+  text-decoration: underline;
+
+}
+.rowwx{
+  width: 250px;
+  height: 450px;
+  background-color: rgb(189, 88, 175);
+  border-radius: 20px;
+  margin: 5px;
+
+  
+}
+.roww{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: auto;
+}
+.rowwy {
+  width: 1450px;
+  height: 450px;
+  background-color: rgb(241, 209, 237);
+  border-radius: 20px;
+  margin: 5px;
+
+}
+.nom{
+  text-align: center;
+  margin: 10px;
+  margin-top: 30px;
+  font-size:24px;
+}
+.menue{
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+  padding-top: 30px;
+  font-size:24px;
+  color: aquamarine;  
+}
+li{
+  list-style: none;
+  
+}
+.con{
+  size: 24px;
+  margin: 20px;
+  padding-top: 40px;
+}
+.maj{
+  font-style: gras;
+  font-size: 24px;
+  text-decoration: underline;
+}
+.im{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  margin-left: 23%;
+  margin-top: 50px;
+  border-radius: 50px;
+  border: 3px solid black;
+}
+.formation{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+  
+.alias{
+  padding: 20px;
+}
+  
